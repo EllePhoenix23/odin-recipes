@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project I am working on as a part of The Odin Project's cirriculum. The project is to design a recipe website utilizing the basic html that I learned in previous lessons and become familiar with the git commit process.
